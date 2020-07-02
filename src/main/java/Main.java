@@ -1,7 +1,7 @@
 import java.util.Random;
 
 public class Main {
-    private static final int MAX_RANDOM_VALUE = 171;
+    private static final int MAX_RANDOM_VALUE = 170;
 
     public static void main(String[] args) {
         Random random = new Random();

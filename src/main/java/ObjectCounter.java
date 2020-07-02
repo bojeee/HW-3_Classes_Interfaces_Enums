@@ -7,7 +7,7 @@ public class ObjectCounter {
     }
 
     public void printCount() {
-        System.out.println("Counter of random objects is  it: " + counter);
+        System.out.println("Counter of random objects is it: " + counter);
     }
 
     public void countRandomizer() {

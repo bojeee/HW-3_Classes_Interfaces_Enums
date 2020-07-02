@@ -2,7 +2,7 @@ public class Car {
     public static final double MAX_SPEED = 170.0;
     private boolean breakWork;
     private double speed;
- 
+    
     public void setSpeed(double speed) {
         this.speed = speed;
     }
